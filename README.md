@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates a common error related to mutable references. The program attempts to create two mutable references to the same variable, which results in a compiler error. The solution demonstrates how to resolve this issue using different techniques, such as using a single mutable reference or cloning the data.
